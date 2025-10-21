@@ -22,7 +22,7 @@ classifiers = [
   "Typing :: Typed",
 ]
 dependencies = [
-    "openai>=1.99.0,<2",
+    "openai>=2.5",
     "pydantic>=2,<3",
     "pydantic-settings>=2,<3",
     "typing-extensions",
